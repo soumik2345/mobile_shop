@@ -15,4 +15,10 @@ module.exports = {
     },
   },
   plugins: [],
+  plugins: [require("daisyui")],
+
+  // daisyUI config (optional - here are the default values)
+  daisyui: {
+
+  },
 }
